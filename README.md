@@ -7,7 +7,7 @@
   
 # Demonstration
 
-![](public/assets/images/demo.gif)
+![](assets/images/demo.gif)
 
 
 
